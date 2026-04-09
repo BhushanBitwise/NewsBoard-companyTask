@@ -6,7 +6,7 @@ A modern, responsive news reading application built with React and TailwindCSS. 
 
 ## 🚀 Live Demo
 
-[View Live Demo]()
+[View Live Demo](https://news-board-company-task.vercel.app/)
 
 ---
 
